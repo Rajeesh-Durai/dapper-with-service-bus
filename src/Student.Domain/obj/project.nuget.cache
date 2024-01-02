@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCs1Bkc6dfuRBKTiamEnTfQq47jnpxSMMCL28wJiL01EU6kwlIUY9mTYau1DPHGyCYsSRr9uMmQuFTNE9IG8KQ==",
+  "success": true,
+  "projectFilePath": "D:\\Visual studio\\Dapper\\CQRS\\Student\\src\\Student.Domain\\Student.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RajeeshDuraiThangaRa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

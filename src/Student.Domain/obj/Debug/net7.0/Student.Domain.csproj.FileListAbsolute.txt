@@ -1,0 +1,12 @@
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\bin\Debug\net7.0\Student.Domain.deps.json
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\bin\Debug\net7.0\Student.Domain.dll
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\bin\Debug\net7.0\Student.Domain.pdb
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.AssemblyInfoInputs.cache
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.AssemblyInfo.cs
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.csproj.CoreCompileInputs.cache
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.dll
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\refint\Student.Domain.dll
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.pdb
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\ref\Student.Domain.dll
+D:\Visual studio\Dapper\CQRS\Student\src\Student.Domain\obj\Debug\net7.0\Student.Domain.csproj.AssemblyReference.cache
